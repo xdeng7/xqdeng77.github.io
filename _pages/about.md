@@ -33,7 +33,7 @@ Selected Work
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
         Leveraging Panoptic Scene Graph for Evaluating Fine-Grained Text-to-Image Generation
       </a><br>
-      Xueqing Deng, Linjie Yang, Qihang Yu, Chenglin Yang, Liang-Chieh Chen<br>
+      **<u>Xueqing Deng</u>**, Linjie Yang, Qihang Yu, Chenglin Yang, Liang-Chieh Chen<br>
       <em>ICCV, 2025</em><br>
       <a href="https://your-paper-link.com">coming</a> /
       <a href="https://your-project-link.com">coming</a>
@@ -47,7 +47,7 @@ Selected Work
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
         COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation
       </a><br>
-     Xueqing Deng, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen
+     **<u>Xueqing Deng</u>**, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen
       <em>arxiv</em><br>
       <a href="[https://your-paper-link.com](https://arxiv.org/abs/2502.02589)">paper</a> /
       <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
