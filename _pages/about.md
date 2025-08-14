@@ -53,6 +53,20 @@ Selected Work
       <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
     </td>
   </tr>
+      <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="../images/coconut.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        COCONut: Modernizing COCO Segmentation
+      </a><br>
+     <b><u>Xueqing Deng</u></b>, Qihang Yu, Peng Wang, Xiaohui Shen, Liang-Chieh Chen<br>  
+      <em>arxiv</em><br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_COCONut_Modernizing_COCO_Segmentation_CVPR_2024_paper.pdf">paper</a> /
+      <a href="https://xdeng7.github.io/coconut.github.io/">webpage</a>
+    </td>
+  </tr>
 </table>
 
 
