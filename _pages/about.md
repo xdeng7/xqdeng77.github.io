@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xueqing Deng's personal webpage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,13 +24,13 @@ News!
 
 Selected Work
 ------
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="padding-right:10px;">
       <img src="图片URL" alt="缩略图" width="150">
     </td>
     <td>
-      <a href="https://你的论文链接" style="font-size:16px; font-weight:bold;">
+      <a href="https://你的论文链接" style="font-size:16px; font-weight:bold; text-decoration:none;">
         An Image is Worth 32 Tokens for Reconstruction and Generation
       </a><br>
       Qihang Yu*, Mark Weber*, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen<br>
@@ -40,3 +40,4 @@ Selected Work
     </td>
   </tr>
 </table>
+
