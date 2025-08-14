@@ -123,6 +123,19 @@ Selected Work
       <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Deng_NightLab_A_Dual-Level_Architecture_With_Hardness_Detection_for_Segmentation_at_CVPR_2022_paper.html">paper</a> 
     </td>
   </tr>
+     <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/autoadapt.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        AutoAdapt: Automated Segmentation Network Search for Unsupervised Domain Adaptation
+      </a><br>
+     <b><u>Xueqing Deng</u></b>, Yi Zhu, Yuxin Tian, Shawn Newsam<br>  
+      <em>CVPR Workshop on Neural Architecture Search, 2021</em><br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Deng_NightLab_A_Dual-Level_Architecture_With_Hardness_Detection_for_Segmentation_at_CVPR_2022_paper.html">paper</a> 
+    </td>
+  </tr>
 
 </table>
 
