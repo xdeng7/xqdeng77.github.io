@@ -26,18 +26,19 @@ Selected Work
 ------
 <table border="0" style="border-collapse: collapse;">
   <tr>
-    <td style="padding-right:10px;">
-      <img src="图片URL" alt="缩略图" width="150">
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="https://your-image-url.com" alt="缩略图" width="150">
     </td>
-    <td>
-      <a href="https://你的论文链接" style="font-size:16px; font-weight:bold; text-decoration:none;">
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
         An Image is Worth 32 Tokens for Reconstruction and Generation
       </a><br>
       Qihang Yu*, Mark Weber*, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen<br>
       <em>NeurIPS, 2024</em><br>
-      <a href="https://paper-link.com">paper</a> /
-      <a href="https://project-link.com">project page</a>
+      <a href="https://your-paper-link.com">paper</a> /
+      <a href="https://your-project-link.com">project page</a>
     </td>
   </tr>
 </table>
+
 
