@@ -27,16 +27,30 @@ Selected Work
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://your-image-url.com" alt="缩略图" width="150">
+      <img src="../images/psgbench.png" alt="缩略图" width="150">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
-        An Image is Worth 32 Tokens for Reconstruction and Generation
+        Leveraging Panoptic Scene Graph for Evaluating Fine-Grained Text-to-Image Generation
       </a><br>
-      Qihang Yu*, Mark Weber*, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen<br>
-      <em>NeurIPS, 2024</em><br>
-      <a href="https://your-paper-link.com">paper</a> /
-      <a href="https://your-project-link.com">project page</a>
+      Xueqing Deng, Linjie Yang, Qihang Yu, Chenglin Yang, Liang-Chieh Chen<br>
+      <em>ICCV, 2025</em><br>
+      <a href="https://your-paper-link.com">coming</a> /
+      <a href="https://your-project-link.com">coming</a>
+    </td>
+  </tr>
+    <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="../images/coconut_pancap.png" alt="缩略图" width="150">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation
+      </a><br>
+     Xueqing Deng, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen
+      <em>arxiv</em><br>
+      <a href="[https://your-paper-link.com](https://arxiv.org/abs/2502.02589)">paper</a> /
+      <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
     </td>
   </tr>
 </table>
