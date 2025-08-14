@@ -63,7 +63,7 @@ Selected Work
         ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
       </a><br>
       Ali Athar, <b><u>Xueqing Deng</u></b>, Liang-Chieh Chen<br>
-      <em>coming, 2025</em><br>
+      <em>CVPR, 2025</em><br>
       <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Athar_ViCaS_A_Dataset_for_Combining_Holistic_and_Pixel-level_Video_Understanding_CVPR_2025_paper.html">paper</a> /
       <a href="https://ali2500.github.io/vicas-project/">webpage</a>
     </td>
