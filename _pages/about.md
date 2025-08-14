@@ -49,7 +49,7 @@ Selected Work
       </a><br>
      <b><u>Xueqing Deng</u></b>, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen
       <em>arxiv</em><br>
-      <a href="[https://your-paper-link.com](https://arxiv.org/abs/2502.02589)">paper</a> /
+      <a href="https://arxiv.org/abs/2502.02589">paper</a> /
       <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
     </td>
   </tr>
