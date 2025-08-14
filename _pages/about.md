@@ -133,7 +133,7 @@ Selected Work
       </a><br>
      <b><u>Xueqing Deng</u></b>, Yi Zhu, Yuxin Tian, Shawn Newsam<br>  
       <em>CVPR Workshop on Neural Architecture Search, 2021</em><br>
-      <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Deng_NightLab_A_Dual-Level_Architecture_With_Hardness_Detection_for_Segmentation_at_CVPR_2022_paper.html">paper</a> 
+      <a href="https://arxiv.org/abs/2106.13227">paper</a> 
     </td>
   </tr>
 
