@@ -25,6 +25,20 @@ News!
 Selected Work
 ------
 <table border="0" style="border-collapse: collapse;">
+   <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/videoweaver.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception
+      </a><br>
+      Zhiheng Liu, <b><u>Xueqing Deng</u></b>, Shoufa Chen, Angtian Wang, Qiushan Guo, Mingfei Han, Zeyue Xue, Mengzhao Chen, Ping Luo, Linjie Yang <br>
+      <em>coming, 2025</em><br>
+      <a href="https://your-paper-link.com">coming</a> /
+      <a href="https://your-project-link.com">coming</a>
+    </td>
+  </tr>
   <tr>
     <td style="padding-right:10px; vertical-align:top;">
       <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/psgbench.png" alt="缩略图" width="250">
@@ -75,7 +89,7 @@ Selected Work
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
         DistPro: Searching A Fast Knowledge Distillation Process via Meta Optimization
       </a><br>
-     <b><u>Xueqing Deng*</u></b>, Dawei Sun*, Shawn Newsam and Peng Wang (* denotes co-first author)<br>  
+     <b><u>Xueqing Deng*</u></b>, Dawei Sun*, Shawn Newsam and Peng Wang (*denotes co-first author)<br>  
       <em>ECCV, 2022</em><br>
       <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Deng_NightLab_A_Dual-Level_Architecture_With_Hardness_Detection_for_Segmentation_at_CVPR_2022_paper.html">paper</a> 
     </td>
