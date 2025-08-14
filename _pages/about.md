@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a research scientist at [ByteDance Seed Research](https://seed.bytedance.com/en/) and I joined ByteDance since 2022. During ByteDance, I am fortunate to work under the supervision from [Dr.Liang-Chieh Chen](https://scholar.google.com/citations?user=ACjYGPUAAAAJ&hl=en) and [Dr.Xiaohui Shen](https://scholar.google.com/citations?user=pViZYwIAAAAJ&hl=en).  Before joining ByteDance, I achieved my PhD degree in EECS from University of California in 2021, Merced advised by [Prof.Shawn Newsam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pQZX0mEAAAAJ&sortby=pubdate) and worked closely with [Dr.Yi Zhu](https://scholar.google.com/citations?user=IXw4UiwAAAAJ&hl=en) during my PhD. Before that, I achieved my BS dregree from Sun Yat-Sen University, China.
+I'm currently a research scientist at [ByteDance Seed Research](https://seed.bytedance.com/en/) and I joined ByteDance since 2022. During ByteDance, I am fortunate to work under the supervision from [Dr. Liang-Chieh Chen](https://scholar.google.com/citations?user=ACjYGPUAAAAJ&hl=en) and [Dr. Xiaohui Shen](https://scholar.google.com/citations?user=pViZYwIAAAAJ&hl=en).  Before joining ByteDance, I achieved my PhD degree in EECS from University of California in 2021, Merced advised by [Prof. Shawn Newsam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pQZX0mEAAAAJ&sortby=pubdate) and worked closely with [Dr. Yi Zhu](https://scholar.google.com/citations?user=IXw4UiwAAAAJ&hl=en) during my PhD. Before that, I achieved my BS dregree from Sun Yat-Sen University, China.
 
 You can find my resume here: [Xueqing Deng's Resume](../assets/cv_xueqing.pdf)
 
