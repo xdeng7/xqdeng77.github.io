@@ -27,7 +27,7 @@ Selected Work
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://github.com/xdeng7/xqdeng77.github.io/images/psgbench.png" alt="缩略图" width="250">
+      <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/psgbench.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
@@ -41,7 +41,7 @@ Selected Work
   </tr>
     <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://github.com/xdeng7/xqdeng77.github.io/images/coconut_pancap.png" alt="缩略图" width="250">
+      <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/coconut_pancap.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
@@ -55,7 +55,7 @@ Selected Work
   </tr>
       <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://github.com/xdeng7/xqdeng77.github.io/images/coconut.png" alt="缩略图" width="250">
+      <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/coconut.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
@@ -69,7 +69,7 @@ Selected Work
   </tr>
        <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://github.com/xdeng7/xqdeng77.github.io/images/distpro.png" alt="缩略图" width="250">
+      <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/distpro.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
@@ -82,7 +82,7 @@ Selected Work
   </tr>
    <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://github.com/xdeng7/xqdeng77.github.io/images/nightlab.png" alt="缩略图" width="250">
+      <img src="https://github.com/xdeng7/xqdeng77.github.io/blob/master/images/nightlab.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
