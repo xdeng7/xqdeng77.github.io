@@ -27,7 +27,7 @@ Selected Work
 <table border="0" style="border-collapse: collapse;">
   <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="../images/psgbench.png" alt="缩略图" width="150">
+      <img src="../images/psgbench.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
@@ -41,7 +41,7 @@ Selected Work
   </tr>
     <tr>
     <td style="padding-right:10px; vertical-align:top;">
-      <img src="../images/coconut_pancap.png" alt="缩略图" width="150">
+      <img src="../images/coconut_pancap.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
