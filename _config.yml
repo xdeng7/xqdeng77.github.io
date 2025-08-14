@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "me.png"
   name             : "Xueqing Deng"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Researcher"
   location         : "Bay Area, CA"
   employer         : "ByteDance"
