@@ -47,7 +47,7 @@ Selected Work
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
         COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation
       </a><br>
-     <b><u>Xueqing Deng</u></b>, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen
+     <b><u>Xueqing Deng</u></b>, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen<br>  
       <em>arxiv</em><br>
       <a href="https://arxiv.org/abs/2502.02589">paper</a> /
       <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
