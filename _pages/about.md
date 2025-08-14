@@ -39,6 +39,7 @@ Selected Work
       <a href="https://your-project-link.com">coming</a>
     </td>
   </tr>
+  
   <tr>
     <td style="padding-right:10px; vertical-align:top;">
       <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/psgbench.png" alt="缩略图" width="250">
@@ -51,6 +52,20 @@ Selected Work
       <em>ICCV, 2025</em><br>
       <a href="https://your-paper-link.com">coming</a> /
       <a href="https://your-project-link.com">coming</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/vicas.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
+      </a><br>
+      Ali Athar, <b><u>Xueqing Deng</u></b>, Liang-Chieh Chen<br>
+      <em>coming, 2025</em><br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Athar_ViCaS_A_Dataset_for_Combining_Holistic_and_Pixel-level_Video_Understanding_CVPR_2025_paper.html">paper</a> /
+      <a href="https://ali2500.github.io/vicas-project/">webpage</a>
     </td>
   </tr>
     <tr>
