@@ -33,7 +33,7 @@ Selected Work
       <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
         WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception
       </a><br>
-      Zhiheng Liu, <b><u>Xueqing Deng</u></b>, Shoufa Chen, Angtian Wang, Qiushan Guo, Mingfei Han, Zeyue Xue, Mengzhao Chen, Ping Luo, Linjie Yang <br>
+      Zhiheng Liu*, <b><u>Xueqing Deng</u></b>, Shoufa Chen, Angtian Wang, Qiushan Guo, Mingfei Han, Zeyue Xue, Mengzhao Chen, Ping Luo, Linjie Yang (*denotes mentored intern)<br>
       <em>coming, 2025</em><br>
       <a href="https://your-paper-link.com">coming</a> /
       <a href="https://your-project-link.com">coming</a>
