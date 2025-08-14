@@ -62,11 +62,38 @@ Selected Work
         COCONut: Modernizing COCO Segmentation
       </a><br>
      <b><u>Xueqing Deng</u></b>, Qihang Yu, Peng Wang, Xiaohui Shen, Liang-Chieh Chen<br>  
-      <em>arxiv</em><br>
+      <em>CVPR2024</em><br>
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_COCONut_Modernizing_COCO_Segmentation_CVPR_2024_paper.pdf">paper</a> /
       <a href="https://xdeng7.github.io/coconut.github.io/">webpage</a>
     </td>
   </tr>
+       <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="../images/coconut.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        DistPro: Searching A Fast Knowledge Distillation Process via Meta Optimization
+      </a><br>
+     <b><u>Xueqing Deng*</u></b>, Dawei Sun*, Shawn Newsam and Peng Wang (* denotes co-first author)<br>  
+      <em>ECCV2022</em><br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Deng_NightLab_A_Dual-Level_Architecture_With_Hardness_Detection_for_Segmentation_at_CVPR_2022_paper.html">paper</a> /
+    </td>
+  </tr>
+   <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="../images/coconut.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        NightLab: A Dual-Level Architecture With Hardness Detection for Segmentation at Night
+      </a><br>
+     <b><u>Xueqing Deng</u></b>, Peng Wang, Xiaochen Lian, Shawn Newsam<br>  
+      <em>CVPR2022</em><br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Deng_NightLab_A_Dual-Level_Architecture_With_Hardness_Detection_for_Segmentation_at_CVPR_2022_paper.html">paper</a> /
+    </td>
+  </tr>
+
 </table>
 
 
