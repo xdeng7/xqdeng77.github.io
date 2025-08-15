@@ -21,6 +21,7 @@ News!
 ------
 1. Two ICCV2025 have been accepted!
 2. One CPVR2025 has been accepted!
+3. One NeurIPS2025 has been accepted!
 
 Selected Work
 ------
