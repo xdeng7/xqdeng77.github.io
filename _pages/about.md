@@ -19,9 +19,9 @@ I am recently interested in multimodal learning for visual generation including 
 
 News!
 ------
-1. Two ICCV2025 have been accepted!
-2. One CPVR2025 has been accepted!
-3. One NeurIPS2025 has been accepted!
+6/10/2025: 2 ICCV2025 have been accepted!
+2/24/2025: 1 CPVR2025 has been accepted!
+10/1/2024: 1 NeurIPS2025 has been accepted!
 
 Selected Work
 ------
