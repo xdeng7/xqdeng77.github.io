@@ -23,7 +23,7 @@ News!
 
 2/24/2025: 1 CPVR2025 has been accepted!
 
-10/1/2024: 1 NeurIPS2025 has been accepted!
+10/1/2024: 1 NeurIPS2024 has been accepted!
 
 Selected Work
 ------
