@@ -38,8 +38,8 @@ Selected Work
       </a><br>
       Zhiheng Liu*, <b><u>Xueqing Deng</u></b>, Shoufa Chen, Angtian Wang, Qiushan Guo, Mingfei Han, Zeyue Xue, Mengzhao Chen, Ping Luo, Linjie Yang (*denotes mentored intern)<br>
       <em>coming, 2025</em><br>
-      <a href="https://your-paper-link.com">coming</a> /
-      <a href="https://your-project-link.com">coming</a>
+      <a href="https://arxiv.org/abs/2508.15720">arXiv</a> /
+      <a href="https://johanan528.github.io/worldweaver_web/">webpage</a>
     </td>
   </tr>
   
