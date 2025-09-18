@@ -33,13 +33,28 @@ Selected Work
       <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/videoweaver.png" alt="缩略图" width="250">
     </td>
     <td style="vertical-align:top;">
-      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
+      <a href="https://johanan528.github.io/worldweaver_web/" style="font-size:16px; font-weight:bold; text-decoration:none;">
         WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception
       </a><br>
       Zhiheng Liu*, <b><u>Xueqing Deng</u></b>, Shoufa Chen, Angtian Wang, Qiushan Guo, Mingfei Han, Zeyue Xue, Mengzhao Chen, Ping Luo, Linjie Yang (*denotes mentored intern)<br>
-      <em>coming, 2025</em><br>
+      <em>NeurIPS, 2025</em><br>
       <a href="https://arxiv.org/abs/2508.15720">arXiv</a> /
       <a href="https://johanan528.github.io/worldweaver_web/">webpage</a>
+    </td>
+  </tr>
+
+    <tr>
+    <td style="padding-right:10px; vertical-align:top;">
+      <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/coconut_pancap.png" alt="缩略图" width="250">
+    </td>
+    <td style="vertical-align:top;">
+      <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html" style="font-size:16px; font-weight:bold; text-decoration:none;">
+        COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation
+      </a><br>
+     <b><u>Xueqing Deng</u></b>, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen<br>  
+      <em>NeurIPS Datasets and Benchmarks Track, 2025</em><br>
+      <a href="https://arxiv.org/abs/2502.02589">paper</a> /
+      <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
     </td>
   </tr>
   
@@ -72,20 +87,7 @@ Selected Work
       <a href="https://ali2500.github.io/vicas-project/">webpage</a>
     </td>
   </tr>
-    <tr>
-    <td style="padding-right:10px; vertical-align:top;">
-      <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/coconut_pancap.png" alt="缩略图" width="250">
-    </td>
-    <td style="vertical-align:top;">
-      <a href="https://your-paper-link.com" style="font-size:16px; font-weight:bold; text-decoration:none;">
-        COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation
-      </a><br>
-     <b><u>Xueqing Deng</u></b>, Linjie Yang, Qihang Yu, Ali Athar, Chenglin Yang, Xiaojie Jin, Xiaohui Shen, Liang-Chieh Chen<br>  
-      <em>arxiv, 2025</em><br>
-      <a href="https://arxiv.org/abs/2502.02589">paper</a> /
-      <a href="https://xdeng7.github.io/coconut.github.io/coconut_pancap.html">webpage</a>
-    </td>
-  </tr>
+  
       <tr>
     <td style="padding-right:10px; vertical-align:top;">
       <img src="https://xdeng7.github.io/xqdeng77.github.io/assets/coconut.png" alt="缩略图" width="250">
