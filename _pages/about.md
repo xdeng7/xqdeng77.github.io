@@ -19,13 +19,13 @@ I am recently interested in multimodal learning for visual generation including 
 
 News!
 ------
-9/16/2025: 1 NeurIPS2025 and 1 NeurIPS DB Track 2025 have been accepted!
+9/16/2025: 1 paper has been accepted at NeurIPS2025 and 1 paper has been accepted at NeurIPS 2025 DB Track!
 
-6/10/2025: 2 ICCV2025 have been accepted!
+6/10/2025: 2 papers have been accepted at ICCV2025!
 
-2/24/2025: 1 CPVR2025 has been accepted!
+2/24/2025: 1 paper has been accepted at CVPR2025!
 
-10/1/2024: 1 NeurIPS2024 has been accepted!
+10/1/2024: 1 paper has been accepted at NeurIPS2024!
 
 Selected Work
 ------
