@@ -25,7 +25,7 @@ author:
   avatar           : "me.png"
   name             : "Xueqing Deng"
   pronouns         : "she/her/hers"  
-  bio              : "Senior Researcher, Tencent Hy"
+  bio              : 'Senior Researcher, <a href="https://hy.tencent.ai/">Tencent Hy</a>'
   location         : "Bay Area, CA"
   # employer         : "ByteDance"
   # email            : "xueqingdeng" 
