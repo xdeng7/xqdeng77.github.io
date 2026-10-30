@@ -19,6 +19,8 @@ I currently work on world models for interactive visual generation, and more bro
 
 News!
 ------
+10/30/2026: We released [Hy-Nomas](https://hy-nomas.hy.tencent.com/): Towards Free-form Interactive World Generation, where I am a core contributor!
+
 9/16/2025: 1 paper has been accepted at NeurIPS2025 and 1 paper has been accepted at NeurIPS 2025 DB Track!
 
 6/10/2025: 2 papers have been accepted at ICCV2025!
