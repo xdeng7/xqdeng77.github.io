@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a research scientist at [ByteDance Seed Research](https://seed.bytedance.com/en/) and I joined ByteDance since 2022. During ByteDance, I am fortunate to work under the supervision from [Dr. Liang-Chieh Chen](https://scholar.google.com/citations?user=ACjYGPUAAAAJ&hl=en) and [Dr. Xiaohui Shen](https://scholar.google.com/citations?user=pViZYwIAAAAJ&hl=en).  Before joining ByteDance, I achieved my PhD degree in EECS from University of California, Merced in 2021 advised by [Prof. Shawn Newsam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pQZX0mEAAAAJ&sortby=pubdate) and worked closely with [Dr. Yi Zhu](https://scholar.google.com/citations?user=IXw4UiwAAAAJ&hl=en) during my PhD. Before that, I achieved my BS dregree in 2016 from Sun Yat-Sen University, China.
+I'm currently a Senior Researcher on world models in the Tencent Hy visual generation team. Previously, I was a research scientist at [ByteDance Seed Research](https://seed.bytedance.com/en/), which I joined in 2022. During ByteDance, I was fortunate to work under the supervision of [Dr. Liang-Chieh Chen](https://scholar.google.com/citations?user=ACjYGPUAAAAJ&hl=en) and [Dr. Xiaohui Shen](https://scholar.google.com/citations?user=pViZYwIAAAAJ&hl=en). Before joining ByteDance, I received my PhD degree in EECS from University of California, Merced in 2021, advised by [Prof. Shawn Newsam](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pQZX0mEAAAAJ&sortby=pubdate), and worked closely with [Dr. Yi Zhu](https://scholar.google.com/citations?user=IXw4UiwAAAAJ&hl=en). Before that, I received my BS degree in 2016 from Sun Yat-Sen University, China.
 
 You can find my resume here: [Xueqing Deng's Resume](https://xdeng7.github.io/xqdeng77.github.io/assets/cv_xueqing.pdf)
 
@@ -15,7 +15,7 @@ You can find my resume here: [Xueqing Deng's Resume](https://xdeng7.github.io/xq
 
 Research Interests
 ------
-I am recently interested in multimodal learning for visual generation including both image and video.
+I currently work on world models for interactive visual generation, and more broadly on multimodal learning for image and video generation.
 
 News!
 ------
@@ -29,6 +29,20 @@ News!
 
 Selected Work
 ------
+
+<div style="margin-bottom: 28px;">
+  <a href="https://hy-nomas.hy.tencent.com/" style="font-size:16px; font-weight:bold; text-decoration:none;">
+    Hy-Nomas: Towards Free-form Interactive World Generation
+  </a><br>
+  Tencent Hy Visual Generation Team · <b>Core contributor</b><br>
+  <em>2026</em><br>
+  A video world model for free-form interactive world generation, with multi-turn text instructions and continuous camera control.<br>
+  <a href="https://hy-nomas.hy.tencent.com/">project</a> /
+  <a href="https://arxiv.org/abs/2610.36729">paper</a> /
+  <a href="https://github.com/Tencent-Hunyuan/Hy-Nomas">code</a>
+  <video src="https://hy-nomas.hy.tencent.com/gallery/hy_nomas_promo.mp4" poster="https://hy-nomas.hy.tencent.com/gallery/promo-draft-v2-20261023.jpg" controls playsinline preload="metadata" style="display:block;width:100%;max-width:720px;border-radius:12px;margin-top:12px;"></video>
+</div>
+
 <table border="0" style="border-collapse: collapse;">
    <tr>
     <td style="padding-right:10px; vertical-align:top;">
